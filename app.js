@@ -3,7 +3,7 @@
 
 let numeroSecreto = 0;
 let intentos = 0;
-let listaNumerosSorteados = [1,2,3,4,5,6,7,8];
+let listaNumerosSorteados = [];
 let numeroMaximo = 10;
 let intentosMax = 3;
 
